@@ -2,7 +2,7 @@
 
 This project implements a Question-Answering (QnA) pipeline over 855 DeepMind research papers in PDF format. It uses LangChain with ChromaDB for vector search and Google's Gemini API for answering questions.
 
-## NOTE:download the ipynb file and see the code
+## NOTE: Download the ipynb file and play with it 
 ## Features
 
 - Loads PDFs in batches (10 at a time) from a local folder
